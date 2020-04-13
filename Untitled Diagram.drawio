@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2020-04-13T14:22:50.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36 OPR/67.0.3575.130" etag="eDM9dLsq0Ogs1KGEclMQ" version="12.9.11" type="github">
+  <diagram id="t5kYtE7AMV_H4aW1E43t" name="Page-1">
+    <mxGraphModel dx="821" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LYZ3GW82Y73pcZ0CkMxN-9" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="770" as="sourcePoint" />
+            <mxPoint x="580" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYZ3GW82Y73pcZ0CkMxN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LYZ3GW82Y73pcZ0CkMxN-13" target="LYZ3GW82Y73pcZ0CkMxN-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LYZ3GW82Y73pcZ0CkMxN-13" value="&lt;span&gt;Falta de auxilio no contato com os clientes.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="670" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYZ3GW82Y73pcZ0CkMxN-16" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="920" as="sourcePoint" />
+            <mxPoint x="464" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYZ3GW82Y73pcZ0CkMxN-17" value="Não ter um único veiculo de comunicação." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="824" width="136" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LYZ3GW82Y73pcZ0CkMxN-19" value="" style="endArrow=none;html=1;" parent="1" source="LYZ3GW82Y73pcZ0CkMxN-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464" y="770" as="sourcePoint" />
+            <mxPoint x="350" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYZ3GW82Y73pcZ0CkMxN-20" value="Comunicação centralizada." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYZ3GW82Y73pcZ0CkMxN-23" value="" style="endArrow=none;html=1;" parent="1" target="LYZ3GW82Y73pcZ0CkMxN-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464" y="770" as="sourcePoint" />
+            <mxPoint x="340" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYZ3GW82Y73pcZ0CkMxN-26" value="&lt;span&gt;Falta de comunicação unificada.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="580" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYZ3GW82Y73pcZ0CkMxN-32" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="920" as="sourcePoint" />
+            <mxPoint x="290" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LYZ3GW82Y73pcZ0CkMxN-33" value="&lt;div&gt;&lt;font face=&quot;monospace&quot;&gt;&lt;span style=&quot;font-size: 0px&quot;&gt;não separação entre meios de divulgação (facebook,insta, etc) e a de comunicação.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Não separação entre meios de divulgação e meios de comunicação.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="824" width="136" height="66" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
